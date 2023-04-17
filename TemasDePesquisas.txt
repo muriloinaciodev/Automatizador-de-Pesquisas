@@ -1,0 +1,28 @@
+Ideias de Pesquisa:
+    - Qual Streaming Você Prefere:
+        * Netflix
+        * Prime Video
+        * HBO
+        * Star+
+        * Disney+
+        * Globo Play
+
+    - Contas de Redes Sociais:
+        * WhatsApp
+        * Instagram
+        * Telegram
+        * Snapchat
+        * TikTok
+        * Facebook
+
+    - Tempo de Tela no TikTok:
+        * 0h |- 1h
+        * 1h |- 2h
+        * 2h |- 3h
+        * 3h |- 4h
+
+    - Marca do Celular:
+        * IPhone
+        * Samsung
+        * Xiaomi
+        * Motorola 
